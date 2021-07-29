@@ -41,4 +41,4 @@ G
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![Musicium Music Bot](https://discord.com/api/oauth2/authorize?client_id=870103238916063293&permissions=8&scope=bot)]
+![Musicium Music Bot](https://discord.com/api/oauth2/authorize?client_id=870103238916063293&permissions=8&scope=bot)
