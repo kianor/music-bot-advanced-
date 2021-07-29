@@ -27,7 +27,7 @@ After that i will cover some more backend stuff, like adding reactions, filters,
 *MAKE SURE THAT THE BOT HAS ADMIN*
 
 # SUPPORT ME
-BY [INVITING MY PUBLIC MUSIC BOT 24/7 UPTIME!]()
+BY [INVITING MY PUBLIC MUSIC BOT 24/7 UPTIME!](https://discord.com/api/oauth2/authorize?client_id=870103238916063293&permissions=8&scope=bot)
 
 This repository only exists, because of this DISCORD BOT, so make sure to invite it, so that i can keep this Repo up to date ;)
 
@@ -41,4 +41,4 @@ G
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![Musicium Music Bot]()]
+[![Musicium Music Bot](https://discord.com/api/oauth2/authorize?client_id=870103238916063293&permissions=8&scope=bot)]
